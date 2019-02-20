@@ -19,3 +19,8 @@ cpp/nbproject
 *.mat
 datasets
 python
+build
+dist
+mrpt.egg-info
+*.gch
+docs/latex
